@@ -96,7 +96,27 @@ if (typeof module !== 'undefined') {
         </script>
 </body>
 
-</html>
+       </html>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
 
 MIT License
 

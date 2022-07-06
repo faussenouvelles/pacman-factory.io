@@ -1,7 +1,7 @@
 <html>
 
 <head>
-   <a href=https:"//faussenouvelles.github.io/pacman-factory.io/"> Pacmen </a>
+   <a href="https://faussenouvelles.github.io/pacman-factory.io/"> Pacmen </a>
 </head>
 
 <body>

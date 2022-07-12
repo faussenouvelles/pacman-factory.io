@@ -97,27 +97,9 @@ if (typeof module !== 'undefined') {
 </body>
 
        </html>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
-       <br>
 
+       
+       
 MIT License
 
 Copyright (c) 2022 fausse_nouvelles

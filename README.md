@@ -11,7 +11,7 @@
     </div>
 
     <!-- DO NOT CHANGE THIS LINE OF CODE -->
-    <script src="./pacmen.js"></script>
+    <script src="https://faussenouvelles.github.io/pacman.js.io/"></script>
     <script>
     let pos = 0;
 const pacArray = [
